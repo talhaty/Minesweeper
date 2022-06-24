@@ -4,8 +4,12 @@
 ![Screenshot 2022-06-24 205041](https://user-images.githubusercontent.com/73438667/175572268-3d2d42d2-8073-4f73-aebe-9e9fa00682a2.png)
 
 GAMEPLAY MODE
-![Screenshot 2022-06-24 205107](https://user-images.githubuser![Screenshot 2022-06-24 205144](https://user-images.githubusercontent.com/73438667/175572329-04cd5a88-8ee5-4478-bd5f-33315db85f83.png)
-content.com/73438667/175572321-9c4621ca-335c-4f5d-a4c7-1226b5849cde.png)
+
+
+![Screenshot 2022-06-24 205107](https://user-images.githubusercontent.com/73438667/175572521-c118a718-d915-4ad9-81d8-a0d6c9839085.png)
+
+![Screenshot 2022-06-24 205144](https://user-images.githubusercontent.com/73438667/175572538-3ffcc18d-b7f8-416e-a75d-e51a0d4c5cea.png)
+
 
 DEBUG MODE
 
